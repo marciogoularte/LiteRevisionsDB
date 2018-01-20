@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteRevisionsDB.Tests.LibC", "LiteRevisionsDB.Tests.LibC\LiteRevisionsDB.Tests.LibC.csproj", "{B39C6E68-A699-4EB4-ACED-0C51C0747F29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteRevisionsDB.net45", "LiteRevisionsDB.net45\LiteRevisionsDB.net45.csproj", "{7ADD362F-125E-465F-AEBB-D5B2DBB4C5E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B39C6E68-A699-4EB4-ACED-0C51C0747F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39C6E68-A699-4EB4-ACED-0C51C0747F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39C6E68-A699-4EB4-ACED-0C51C0747F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADD362F-125E-465F-AEBB-D5B2DBB4C5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADD362F-125E-465F-AEBB-D5B2DBB4C5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADD362F-125E-465F-AEBB-D5B2DBB4C5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADD362F-125E-465F-AEBB-D5B2DBB4C5E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

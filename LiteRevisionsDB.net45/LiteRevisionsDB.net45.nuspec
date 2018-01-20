@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Peterson Salamat</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/peterson1/LiteRevisionsDB/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/peterson1/LiteRevisionsDB</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Version-keeping document store using LiteDB</description>
+    <releaseNotes>test release (don't download yet)</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+</package>
